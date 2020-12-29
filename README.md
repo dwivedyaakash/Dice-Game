@@ -1,4 +1,4 @@
-# Dice-Game
+# Dice Game
 
 ### On refreshing the page, the web page randomly changes the dices and it declares the winner at the top.
 
